@@ -2,7 +2,7 @@
 THIS IS OUR PROJECT 
 # Malware Detection
 <br><br><br>
-<img src="https://github.com/nipun-priyanjith/malware-detection/blob/main/malware-detection/a.jpg">
+<img src="a.jpg">
 ## Objective
 
 
