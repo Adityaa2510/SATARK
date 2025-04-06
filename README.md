@@ -41,7 +41,7 @@ The objectives were to develop a robust malware detection system leveraging trie
 3. **Clone the Project Repository:**
    - Clone the project repository from GitHub using Git:
      ```bash
-     git clone <https://github.com/nipun-priyanjith/malware-detection.git>
+     git clone <https://github.com/Adityaa2510/SATARK.git>
      ```
 
 4. **Run the Project:**
